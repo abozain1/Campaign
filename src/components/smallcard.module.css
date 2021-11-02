@@ -2,7 +2,7 @@
     .main {
         display: block;
         background-color: white;
-      padding: 2vh 0vw 5vh 0vw;
+      padding: 22vh 0vw 5vh 0vw;
      height: 150vh;
         width: 50vw;
         margin: 15vh 5vw 5vh 21vw;
@@ -198,7 +198,7 @@
         width: 100%;
         
         position: relative;
-        margin: 20vh 0vw 0vh 0vw;
+        margin: 0vh 0vw 0vh 0vw;
       display: block;
     }
     .prize {
