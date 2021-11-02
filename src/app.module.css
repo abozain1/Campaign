@@ -1,0 +1,18 @@
+
+h1{
+    font-size: 4vw;
+    text-align: center;
+}
+.btn{
+    position: absolute;
+    bottom: 5vh;
+    right: 48%;
+    cursor: pointer;
+    background-color:#45E220 ;
+    width: 5vw;
+    height:  11vh;
+    border-radius: 50%;
+    color: white;
+    font-size: 2vw;
+    border: 0px;
+}
