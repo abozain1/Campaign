@@ -1,5 +1,5 @@
 @media (min-width: 0px) {
-    .holder {
+    .main {
         display: block;
         background-color: white;
       padding: 22vh 0vw 5vh 0vw;
@@ -210,7 +210,7 @@
     }
 }
 @media (min-width: 700px) {
-    .holder {
+    .main {
         height: 0;
         width: 0;
         display: none;

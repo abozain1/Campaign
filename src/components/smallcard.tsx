@@ -15,7 +15,7 @@ const SmallCard: React.FC<{
   let num = useSelector(selectcontent);
   const dispatch = useDispatch();
   return (
-      <div className={classes.holder}>
+      <div className={classes.main}>
         <Donut />
           <div className={classes.iconholder}>
             <div className={classes.icon1}>
