@@ -2,7 +2,7 @@
     .holder {
         display: block;
         background-color: white;
-      padding: 2vh 0vw 5vh 0vw;
+      padding: 22vh 0vw 5vh 0vw;
      
         width: 50vw;
         margin: 15vh 5vw 5vh 21vw;
@@ -41,7 +41,7 @@
         background-size: contain;
         background-repeat: no-repeat;
         
-        margin:20vh 0vw 0vh 19.5vw;
+        margin:0vh 0vw 0vh 19.5vw;
     }
     .img2 {
         height: 30vh;
